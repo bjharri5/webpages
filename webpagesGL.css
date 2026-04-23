@@ -1,0 +1,22 @@
+/*
+ *Name: Ben Harris
+ *UnityID: bjharri5
+ *Date: 4/22/2026
+ *Assignment: Guided Lab 4
+ *Description: Guided Lab Assignment, about me webpage
+ */
+ 
+p {
+    font-family: Times;
+    font-size: 16px;
+    color: #000;
+}
+
+.table-border {
+    border: 1px solid #000;
+}
+
+#photo-resize {
+    max-width: 250px;
+    max-height: 300px;
+}
